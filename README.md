@@ -34,7 +34,10 @@
 
 <a href=#100days>![#100DaysOfCode](Assets/inter-100hash.png)</a>  
 
-<a href=#100days>![Under Construction](Assets/lorem-text.png)</a>
+### Day 7: February 10, 2021
+- I watched tutorials and made two animated kinetic loaders for Day 7.
+
+- See <a href="https://github.com/emjose/kinetic-loader-1/#header">first kinetic loader</a>.
 
 #
 
@@ -57,7 +60,7 @@ open index.html
 
 <a href="https://emjose.github.io/kinetic-loader-2/">![Live Site](Assets/inter-live-site.png)</a>  
 
-<a href="https://emjose.github.io/kinetic-loader-2/">![Under Construction](Assets/lorem-live.png)</a>
+<a href="https://emjose.github.io/kinetic-loader-2/">![Live Site](Assets/007-kinetic-2.gif)</a>
 
 #
 
@@ -65,7 +68,9 @@ open index.html
 
 <a href=#resources>![Resources](Assets/inter-resources.png)</a>  
 
-<a href=#resources>![Under Construction](Assets/lorem-text.png)</a>
+- #### [Triangles Kinetic Loader Tutorial](https://youtu.be/xb0w_DmWtVs) by [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+  
+- #### [Circular Kinetic Loader Tutorial](https://youtu.be/ttWXapXj4cg) by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 #
 
